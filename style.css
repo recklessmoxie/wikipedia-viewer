@@ -1,0 +1,29 @@
+
+body {
+  background:
+    linear-gradient(rgba(0, 143, 121, 0.6),
+rgba(0, 143, 121, 0.6)
+    ),
+    url(wiki-globe.png) top center no-repeat;
+  font-family: 'Lora', serif;
+}
+
+.container {
+  margin-top: 10rem;
+}
+
+h1 {
+  font-family: 'Cormorant', serif;
+  color: #EFEFEF;
+  text-shadow: #4ABDAC;
+}
+
+.globe {
+  background-color: transparent;
+}
+
+/*#4ABDAC;
+#FC4A1A;
+#F7B733;
+#DFDCE3;
+#EFEFEF;*/
