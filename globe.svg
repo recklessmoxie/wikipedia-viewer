@@ -1190,7 +1190,9 @@
      transform="matrix(0.75962686,0,0,0.75962686,-69.963503,5.8273269)">
     <g
        id="g8106"
-       transform="matrix(0.8224136,0,0,0.8224136,-35.497431,-35.85974)">
+       transform="matrix(0.8224136,0,0,0.8224136,-35.497431,-35.85974)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:transform-center-y="25.720945"
          inkscape:transform-center-x="-38.448499"
