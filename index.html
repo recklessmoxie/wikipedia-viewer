@@ -1,47 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--[if lte IE 9]>
-<html lang="en" class="oldie">
-<![endif]-->
 <head>
   <title>Wikipedia Viewer</title>
   <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <meta http-equiv="x-ua-compatible" content="ie=edge">
    <link href="https://fonts.googleapis.com/css?family=Cormorant:600|Lora" rel="stylesheet">
-  <link rel="stylesheet prefetch"  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
   <link rel="stylesheet" type="text/css" href="style.css">
  </head>
 
  <body>
-   <div class="container">
-     <div class="row clearfix">
-       <div class="col-xs-12">
-       <h1 class="display-4 text-xs-center"><i class="fa fa-wikipedia-w"></i>ikipedia Viewer</h1>
+   <div class="container-fluid">
+     <div class="row">
+       <div class="col-xs-12 clearfix">
+         <a title="By Nohat (Wikipedia Logo), Paullusmagnus) (concept), Porsche997SBS (Inverse), Legoktm (transperancy). [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATest-Wikipedia-Log-Transparent.png">
+         <img src="globe.svg" class="globe img-fluid center-block"/>
+       </a>
      </div>
    </div>
-<!-- <div class="row">
-  <div class="col-xs-12">
-<a title="By RomanLier [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="http://res.cloudinary.com/recklessmoxie/image/upload/e_make_transparent:28,f_auto,q_100/e_saturation:3,q_100/e_brightness:66,q_100/v1469201679/Wiki_puzzle_piece_blank_rfzgb6.svg"><img width="150" alt="Wiki puzzle piece" src="Wiki_puzzle_piece_blank.svg"/><i class="fa fa-random" aria-hidden="true"></i> View Random Article</a>
-  </div>
-</div> -->
-<!-- <div class="row">
-  <div class="col-lg-offset-3 col-lg-6">
-    <div class="input-group">
-      <input type="text" class="form-control" placeholder="Search Wikipedia...">
-      <span class="input-group-btn">
-        <button class="btn btn-secondary" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
-      </span>
-    </div>
-  </div>
-</div> -->
+   <div class="row">
+   <div class="col-xs-12 col-xs-pull-2 col-md-6 col-md-offset-6 clearfix">
+    <a href="placeholder">
+    <img class="puzzle img-fluid" width="500"  src="orange.svg"/>
+          </a>
+   </div>
+   </div>
+   <div class="row">
+   <div class="col-xs-6  col-md-8 col-md-offset-4 clearfix">
+   <form action="" role="search" class="search" id="search">
+   		<input type="submit" value="" class="search-submit" id="search-submit">
+   		<input type="search" name="q" class="search-text"  id="search-text" placeholder="Search Wikipedia" autocomplete="off">
+      <text class="click" id="click">Click here to search</text>
+   </form>
+ </div>
+ </div>
+
+   <!-- <form class="search">
+      <input id="search-box" type="text" class="form-control" placeholder="Search Wikipedia"/><span>
+      <label for="search-box"<i class="fa fa-search"></i></span></label>
+      <input type="submit" id="search-submit"/>
+     </form> -->
+
+
 </div>
-<div class="footer"><a title="By Nohat (Wikipedia Logo), Paullusmagnus) (concept), Porsche997SBS (Inverse), Legoktm (transperancy). [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATest-Wikipedia-Log-Transparent.png">Wikipedia Logo Attribution
-</a>
-</div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
    <script src="app.js"></script>
  </body>
 </html>
