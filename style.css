@@ -2,32 +2,30 @@
 body {
   background: #4ABDAC;
   font-family: 'Cormorant', serif;
-  margin: 2%;
+}
+
+.globe {
+  margin-top: 10px;
 }
 
  a {
    text-decoration: none;
    color:inherit;
  }
+
 .puzzle {
-  margin-top: 25px;
-  margin-left: 0;
+  margin-top: 50px;
 }
 
-.click {
+/*.click {
   font-family: 'Cormorant', serif;
   color: #FFFFFF;
-  font-size: 1.8rem;
-}
-
-.search {
-margin-top: 25px;
-margin-left: 0;
-}
+  font-size: 1.4rem;
+}*/
 
 form{
 	padding: 0;
-  margin: 0;
+  margin-top: 50px;
 }
 
  input.search-text {
@@ -36,7 +34,7 @@ form{
  	z-index:5;
  	transition: z-index 0.8s, width 0.5s, background 0.3s ease, border 0.3s;
  	height: 55px;
- 	width: 0;
+ 	width: 300px;
  	margin: 0;
  	padding: 5px 0 5px 60px;
  	box-sizing: border-box;
@@ -45,32 +43,33 @@ form{
  	cursor: pointer;
  	border-radius: 40px;
  	border: 6px solid transparent;
- 	background: url(http://res.cloudinary.com/recklessmoxie/image/upload/c_scale,h_300,q_100,w_300/v1469498124/icon-magnifying-glass-lightbox_kx4yk5.png) no-repeat left 5px center transparent;
-   background-size:50px;
- }
+ 	background: url(search.svg) no-repeat center transparent;
+  background-size:300px;
+}
 
  input.search-text:focus {
  	z-index:3;
- 	width: 290px;
+ 	width: 300px;
  	border: 3px solid #F7B733;
- 	background-color: rgba(239, 239, 239, 1);
+ 	background-color: rgba(255, 255, 255, 1);
  	outline: none;
  	cursor:auto;
  	padding-right: 10px;
+  padding-left: 75px;
  }
 
  input.search-submit {
  	position: relative;
  	z-index: 4;
- 	top:17px;
+ 	top:25px;
  	left: 49px;
- 	width: 85px;
+ 	width: 75px;
  	height: 45px;
  	margin: 0;
  	padding: 0;
  	border: 0;
  	outline: 0;
- 	border-radius: 30px;
+ 	border-radius: 40px;
  	cursor: pointer;
  	background: none;
  }
