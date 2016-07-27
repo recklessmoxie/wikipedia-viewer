@@ -10,9 +10,9 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="718.58478"
-   height="288.60159"
-   viewBox="0 0 718.58477 288.6016"
+   width="594.97083"
+   height="268.43893"
+   viewBox="0 0 594.97081 268.43894"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="globe.svg">
@@ -72,13 +72,13 @@
      id="namedview939"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="376.59183"
-     inkscape:cy="125.60795"
+     inkscape:cx="277.63514"
+     inkscape:cy="181.45244"
      inkscape:current-layer="g83954"
-     fit-margin-top="10"
-     fit-margin-left="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:showpageshadow="false" />
   <title
      id="title4">Wikipedia logo version 2</title>
@@ -1187,16 +1187,13 @@
   </radialGradient>
   <g
      id="g83954"
-     transform="matrix(0.75962686,0,0,0.75962686,-69.963503,5.8273269)">
+     transform="matrix(0.75962686,0,0,0.75962686,-168.92018,-70.179843)">
     <g
-       id="g8106"
-       transform="matrix(0.8224136,0,0,0.8224136,-35.497431,-35.85974)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       id="g12087">
       <g
-         inkscape:transform-center-y="25.720945"
-         inkscape:transform-center-x="-38.448499"
-         transform="matrix(1.2863471,0,0,1.2863471,135.36332,34.80106)"
+         inkscape:transform-center-y="20.805019"
+         inkscape:transform-center-x="-31.100012"
+         transform="matrix(1.0818375,0,0,1.0572687,232.65343,98.081978)"
          id="g84224">
         <g
            id="g83420">
@@ -2804,15 +2801,16 @@
            style="opacity:1;fill:#fc714c;fill-opacity:0.28662438;fill-rule:evenodd;stroke:#fc4a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9088)" />
       </g>
       <text
+         transform="scale(1.0115523,0.98857962)"
          sodipodi:linespacing="125%"
          id="text5353"
-         y="362.10977"
-         x="373.33142"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:110.98408508px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.96100003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="394.11569"
+         x="358.03943"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:81.32870483px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Thin';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.96100003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:110.98408508px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="362.10977"
-           x="373.33142"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:81.32870483px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="394.11569"
+           x="358.03943"
            id="tspan5355"
            sodipodi:role="line">Wikipedia Viewer</tspan></text>
     </g>
