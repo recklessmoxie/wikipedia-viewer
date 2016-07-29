@@ -1,5 +1,11 @@
 # Wikipedia Viewer: A Free Code Camp project
 ____
+### See the final project here:
+
+<a href="http://www.recklessmoxie.com/wikipedia-viewer/"><img width:"400" src="http://res.cloudinary.com/recklessmoxie/image/upload/q_100/v1469828830/goatsearch_oy6k5s.png"></a>
+
+<p>Check out my blog post about the project <a href="http://www.recklessmoxie.com/blog/wikipedia-viewer-project/"> here </a></p>
+___
 
 #### Objective: Build a CodePen.io app functionally similar to this: https://codepen.io/FreeCodeCamp/full/wGqEga/.
 
