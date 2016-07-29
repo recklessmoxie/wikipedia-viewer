@@ -11,6 +11,10 @@ $('#searchText').click(function () {
   $('#getIt').show();
 });
 
+
+// Help writing portion below provided courtesy of: http://stackoverflow.com/questions/979662/how-to-detect-pressing-enter-on-keyboard-using-jquery//
+
+
 $('#searchText').keyup(function (e) {
   if (e.which == 13) {
     $('#getIt').click();
